@@ -1,2 +1,1 @@
-# ToppLing-Boxes
-Created on vs Code
+# Box Class
